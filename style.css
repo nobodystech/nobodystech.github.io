@@ -1,0 +1,44 @@
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: 'Heavy';
+  font-weight: 100;
+  src: url('https://nobodystech.github.io/SF-Pro-Text-Heavy.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: 'Regular';
+  font-weight: 100;
+  src: url('https://nobodystech.github.io/SF-Pro-Text-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: 'Semibold';
+  font-weight: 100;
+  src: url('https://nobodystech.github.io/SF-Pro-Text-Semibold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: 'Light';
+  font-weight: 100;
+  src: url('https://nobodystech.github.io/SF-Pro-Text-Light.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: 'Medium';
+  font-weight: 100;
+  src: url('https://nobodystech.github.io/SF-Pro-Text-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: 'Thin';
+  font-weight: 100;
+  src: url('https://nobodystech.github.io/SF-Pro-Text-Thin.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: 'Ultralight';
+  font-weight: 100;
+  src: url('https://nobodystech.github.io/SF-Pro-Text-Ultralight.woff2') format('woff2');
+}
